@@ -50,10 +50,8 @@ Craiyon：
 ## 👨‍💻 Expert
 
 <p>
-    
-    <p>Ingrid Braga<br>
-    
-    <a href="https://github.com/eu-ingrid">GitHub    </a>
-
+    <p>&nbsp&nbsp&nbspIngrid Braga<br>
+       &nbsp&nbsp&nbsp
+       <a href="https://github.com/eu-ingrid"> GitHub</a>
     </p>
 </p>
