@@ -1,9 +1,11 @@
 # Projeto Criando um podcast com IAs
 
-
  > ℹ️ **NOTE:** Repositório criado durante o Bootcamp "CAIXA - IA Generativa com Microsoft Copilot", curso que realizei na plataforma [DIO](https://dio.me)
 
-Objetivo: Gerar um Podcast utilizando ferramentas de IA.
+
+## Objetivo: 
+
+- Gerar um Podcast utilizando ferramentas de IA.
 
 ## 💻 Tecnologias utilizadas 
 
