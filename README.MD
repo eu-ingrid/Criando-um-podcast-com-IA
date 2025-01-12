@@ -5,7 +5,7 @@
 
 Objetivo: Gerar um Podcast utilizando ferramentas de IA.
 
-## 💻 Tecnologias utilizadas no projeto
+## 💻 Tecnologias utilizadas 
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Craiyon](https://www.craiyon.com/)
